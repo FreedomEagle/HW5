@@ -1,0 +1,18 @@
+/* Read Me */
+
+Perimeter. C
+I could not multiply the distance by 3,
+ since I did not check to see if the given lines 
+ were equal.
+
+Area. C
+I used the equation from here (http://www.mathopenref.com/coordtrianglearea.html)
+since I was not sure if the given triangle were right triangles.
+
+Make File.
+I had to add the -lm
+as #include<math.h> did not link the library 
+for some reason.
+
+
+ 
